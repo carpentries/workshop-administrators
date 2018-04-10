@@ -3,7 +3,7 @@ Workshop administrators support host sites and instructors in planning and runni
 
 # Members
 | Name  | Organization  |  Role |  Timezone | Region |
-|---|---|---|---|
+|---|---|---|---|---|
 | Maneesha Sane  | The Carpentries  | Program Manager  | UTC-4 | Global |
 | James Desjardins | Compute Canada | Workshop Administrator | UTC-4 | Canada |
 | John Simpson | Compute Canada | Workshop Administrator | UTC-4 | Canada |
