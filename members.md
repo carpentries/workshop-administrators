@@ -11,4 +11,5 @@ Workshop administrators support host sites and instructors in planning and runni
 | Giacomo Peru | Software Sustainability Institute | Workshop Administrator | UTC+1 | UK |
 | Anelda van der Walt |  | Workshop Administrator | UTC+2 | Africa |
 | Damien Irving |  | Workshop Administrator | UTC+12 | Australia |
+| Nooriyah Lohani | NeSi | Workshop Administrator || New Zealand |
 | SherAaron Hurt | The Carpentries | Workshop Administrator | UTC+4 | Rest of world |
