@@ -2,8 +2,8 @@
 Workshop administrators support host sites and instructors in planning and running Carpentries workshops.
 
 # Members
-| Name  | Organization  |  Role |  Timezone | Region |
-|---|---|---|---|---|
+| Name  | Organization  |   Timezone | Region |
+|---|---|---|---|
 | James Desjardins | Compute Canada| UTC-4 | Canada |
 | John Simpson | Compute Canada | UTC-4 | Canada |
 | Aleksandra Nenadic | Software Sustainability Institute | UTC+1 | UK |
